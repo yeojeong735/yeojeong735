@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.app.goo.gl/z2p2Rhf94TNicsJv6" />
+  <img src="https://x.com/i/status/1362843539596582912" />
 </div>
 
 <!--
