@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://images.app.goo.gl/z2p2Rhf94TNicsJv6" />
+</div>
 
 <!--
 **Lime0303i/Lime0303i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
