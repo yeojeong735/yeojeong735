@@ -17,9 +17,9 @@
 </div>
 
 <br>
-
+<div align="center">
 <img src="http://mazandi.herokuapp.com/api?handle={yeojeong735}&theme=cold"/>
-
+</div>
 <!--
 **Lime0303i/Lime0303i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
